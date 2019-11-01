@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(205, 195, 50) ;
+    background-color: rgb(161, 172, 11) ;
     color: whitesmoke;
 }
 
@@ -13,7 +13,7 @@ body{
 
 .competences div {
     margin: 8px 6px 4px 3px;
-    padding: 10px 10px 0;
+    padding: 10px 10px 10px;
 }
 
 .competences div > span {
@@ -34,16 +34,30 @@ body{
 
 .bidul {
     padding: 20px 20px 0;
+    
 }
 
 .essai {
-    height: 600px;
+    height: 500px;
 }
 
 h2 {
-    color: rgb(205, 195, 50);
+    color:rgb(161, 172, 11);
 }
 
 a {
     color: gray;
+}
+.icon  {
+    font-size: 90px;
+    background-color: rgb(34, 32, 32);
+}
+
+.bg-info1, .bg-info2, .bg-info3 {
+    display: none;
+}
+
+.tel, .mail  {
+    font-size: 30px;
+    
 }
