@@ -64,5 +64,8 @@ h2 {
 
 .sub:hover {
     background-color:rgb(161, 172, 11);
-
+}
+.pres {
+    margin: 8px 6px 4px 3px;
+    padding: 10px 10px 10px;
 }
