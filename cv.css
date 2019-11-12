@@ -72,6 +72,7 @@ h2 {
 .a {
     color: gray;
 }
+
 .icon  {
     font-size: 90px;
     background-color: rgb(34, 32, 32);
@@ -81,7 +82,7 @@ h2 {
     display: none;
 }
 
-.tel, .mail  {
+.tel, .mail, .print  {
     font-size: 30px;
     color: gray;
 }
